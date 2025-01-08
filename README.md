@@ -4,14 +4,19 @@ A simple chat application built using Java AWT and Socket Programming. This proj
 
 ---
 
+### Prerequisites
+- Java Development Kit (JDK) installed on your system.
+- A text editor or an IDE like Eclipse, IntelliJ IDEA, or Visual Studio Code.
+
 ## 🚀Features
 
-Real-time message exchange between a Sender and a Receiver.
-Graphical User Interface (GUI) built using Java AWT components.
-Efficient communication via socket programming.
-Easy-to-use interface with a Send Button and a Text Field for entering messages.
+- Real-time message exchange between a Sender and a Receiver.
+- Graphical User Interface (GUI) built using Java AWT components.
+- Efficient communication via socket programming.
+- Easy-to-use interface with a Send Button and a Text Field for entering messages.
 ---
-# Chat Application Project
+
+
 
 ## ⚙️ How It Works
 - The Receiver establishes a connection with the Sender on a specific port (e.g., 12000).
@@ -38,27 +43,12 @@ To contribute:
 
 ## 📧 Contact
 For any queries or suggestions, feel free to reach out:
-- **Email**: your_email@example.com
-- **GitHub**: [yourusername](https://github.com/deepikaaselvam)
-
-## 🌟 Show your support by giving a ⭐ on this repository!
+- **Email**: deepikaselvam.16@gmail.com
+- **GitHub**: [deepikaselvam](https://github.com/deepikaaselvam)
 
 
 
-## 📸 Screenshots  
 
-### 1. **Receiver Interface**
-![Receiver Interface](path/to/receiver_image.png)  
 
-### 2. **Sender Interface**  
-![Sender Interface](path/to/sender_image.png)  
-
----
-
-## 🚀 Getting Started  
-
-### Prerequisites
-- Java Development Kit (JDK) installed on your system.
-- A text editor or an IDE like Eclipse, IntelliJ IDEA, or Visual Studio Code.
 
 
