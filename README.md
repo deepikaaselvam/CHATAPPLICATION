@@ -11,16 +11,37 @@ Graphical User Interface (GUI) built using Java AWT components.
 Efficient communication via socket programming.
 Easy-to-use interface with a Send Button and a Text Field for entering messages.
 ---
-## 🛠️How It Works
+# Chat Application Project
 
-Sender & Receiver Setup
-The Sender and Receiver applications communicate over a socket connection using localhost and port 12000.
-Messages sent by the Sender are displayed on the Receiver's chat area and vice versa.
----
-## Key Functionalities
-Text Input: Users can type messages into a text field.
-Message Display: Messages are appended to the chat area to show the conversation.
-Thread Management: Each application uses a separate thread to handle incoming messages continuously.
+## ⚙️ How It Works
+- The Receiver establishes a connection with the Sender on a specific port (e.g., 12000).
+- Messages sent by the Sender are displayed in the Receiver's chat window and vice versa.
+- The project uses `DataInputStream` and `DataOutputStream` for communication.
+
+## 🌟 Project Structure
+- **Sender.java**: Handles the sender's interface and message-sending functionality.
+- **Receiver.java**: Handles the receiver's interface and message-receiving functionality.
+- **Socket Communication**: Enables real-time data transfer between Sender and Receiver.
+
+## 📜 Future Enhancements
+- Add a feature for file sharing between users.
+- Include an encryption mechanism for secure communication.
+- Enhance the UI with modern design frameworks like JavaFX or Swing.
+
+## 🤝 Contributing
+Contributions are always welcome! 
+
+To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Submit a pull request.
+
+## 📧 Contact
+For any queries or suggestions, feel free to reach out:
+- **Email**: your_email@example.com
+- **GitHub**: [yourusername](https://github.com/deepikaaselvam)
+
+## 🌟 Show your support by giving a ⭐ on this repository!
 
 
 
