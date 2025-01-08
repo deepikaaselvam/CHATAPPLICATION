@@ -4,13 +4,12 @@ A simple chat application built using Java AWT and Socket Programming. This proj
 
 ---
 
-## 🛠 Features
+## 🛠🚀Features
 
-- **Real-time Chat:** Seamless communication between Sender and Receiver.
-- **Socket Programming:** Leveraging Java sockets for network communication.
-- **AWT Interface:** User-friendly graphical interface created with Java AWT.
-- **Bidirectional Messaging:** Sender and Receiver can both send and receive messages.
-
+--Real-time message exchange between a Sender and a Receiver.
+--Graphical User Interface (GUI) built using Java AWT components.
+--Efficient communication via socket programming.
+--Easy-to-use interface with a Send Button and a Text Field for entering messages.
 ---
 
 ## 📸 Screenshots  
@@ -29,8 +28,4 @@ A simple chat application built using Java AWT and Socket Programming. This proj
 - Java Development Kit (JDK) installed on your system.
 - A text editor or an IDE like Eclipse, IntelliJ IDEA, or Visual Studio Code.
 
-### Steps to Run the Project
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/JavaChatApplication.git
 
